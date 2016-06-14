@@ -1,8 +1,8 @@
 # Day 5!
 
-**Get yer Git!** While we have the awesome flexibility to work together remotely, we don't always get to check in, and I dearly want to understand how you are experiencing each day. So, starting today, we will be cloning and pushing Git repos for each day. Plus we'll have a body of work to be proud of, even if incomplete or imperfect!
+**Get yer Git!** While we have the awesome flexibility to work together remotely, we don't always get to check in and I dearly want to understand how you are experiencing each day. So, starting today, we will be cloning and pushing Git repos for each day. Plus we'll have a body of work to be proud of, even if incomplete or imperfect!
 
-_If you haven't done so, hit the Git tutorials from days 3 and 4.
+_If you haven't done so, hit the Git tutorials from days 3 and 4._
 
 Please do reach out to me if you're struggling with Git and let's work through it together!_
 
