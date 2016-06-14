@@ -21,24 +21,29 @@ Please do reach out to me if you're struggling with Git and let's work through i
 
 6\. Sprint 180 minutes (pairing)
 
-## Blog
+## Sprint
 
 [Welcome to Tangle](http://worrydream.com/Tangle/)
 
-- [ ] Git clone or download Tangle
-- [ ] Work through Getting Started and the API docs.
-- [ ] Do all the things
+- [ ] Git clone Tangle
+- [ ] Create a new index.html document containing:
+      <head></head>
+      <body>
+
+      </body>
+      <script>
+
+      </script>
+- [ ] 
+- [ ] At the command line, start a python server by entering
+      python3 -m http.server
+- [ ] Your new
+- [ ] Implement all the [Getting Started](http://worrydream.com/Tangle/guide.html) Examples by building them in your index.html.
 
 ## Sprint
-Data abstraction is the foundation of _great_ user interfaces.
-
-+ [ ] Use Tangle to implement new sliders from the [Ladder of Abstraction](http://worrydream.com/LadderOfAbstraction/) and changes the parameters to those of your choosing. You'll need to dig into the HTML guts of the sliders in the article. Find the JS source files. Rip it out. Explore. Console log. Build. Hack.
-
-_See what you can do here. I'm still working on it. The world is yours to change how you see fit._
 
 ## Lecture
 [Nodal schema demo - 35 mins](https://drive.google.com/file/d/0B_-ER6NIoZe0ZzhwS3BWeTNmVE0/view)
-[Nodal Q and A with Keith - 30 mins](https://drive.google.com/folderview?id=0B9Ra_nUEBLqhSmloX0t2VmxnZFk&usp=drive_web#list)
 
 ## Algorithm Practice
 + [ ] The Longest String
