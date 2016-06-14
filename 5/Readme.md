@@ -7,10 +7,13 @@ _If you haven't done so, hit the Git tutorials from days 3 and 4._
 Please do reach out to me if you're struggling with Git and let's work through it together!_
 
 1. Star this repo
-2. Clone this repo
-3. Create new files for your projects
-4. Do the 1+1
-5. Push your work to your own repo
+2. Click fork
+3. Select your account.
+4. Click Clone
+5. Copy the url that appears.
+6. Use that url in the terminal when adding your remote
+7. Do the 1+1
+8. Push your work to your own repo
 
 ---
 ## Format
