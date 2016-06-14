@@ -1,17 +1,18 @@
 # Day 5!
 
-Starting tomorrow we will be pushing Git repos for each day. As we have the awesome flexibility to work together remotely, it's extra important that I'm able to know how much we are getting done, plus we'll have a body of work to be proud of, even if incomplete or imperfect!
+**Get yer Git!** Starting today, we will be pushing Git repos for each day. While we have the awesome flexibility to work together remotely, we don't always get to check in, and I dearly want to understand how you are experiencing each day. Plus we'll have a body of work to be proud of, even if incomplete or imperfect!
 
-I will formalize all our class materials into Git repos so that each day there will be a repo to clone and you can push your code, +1/-1's, and progress updates!
+I've formalized all our class materials into Git repos so that each day there will be a repo to clone and you can push your work (code, +1/-1's, progress updates).
 
 _If you haven't done so, hit the Git tutorials from days 3 and 4.
 Please do reach out to me if you're struggling with Git and let's work through it together!_
 
 ---
 ## Format
-1\. Blog 60 minutes (autonomous)
 
-2\. Sprint 90 minutes(pairing)
+1\. Sprint 90 minutes(pairing)
+
+2\. Blog 60 minutes (autonomous)
 
 3\. Lecture 60 minutes (autonomous)
 
@@ -26,7 +27,7 @@ Please do reach out to me if you're struggling with Git and let's work through i
 [Welcome to Tangle](http://worrydream.com/Tangle/)
 
 - [ ] Git clone Tangle
-- [ ] Create a new index.html document containing:
+- [ ] Open the index.html from today's repo:
       <head></head>
       <body>
 
@@ -34,7 +35,7 @@ Please do reach out to me if you're struggling with Git and let's work through i
       <script>
 
       </script>
-- [ ] 
+- [ ]
 - [ ] At the command line, start a python server by entering
       python3 -m http.server
 - [ ] Your new
