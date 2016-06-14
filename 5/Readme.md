@@ -4,7 +4,7 @@
 
 _If you haven't done so, hit the Git tutorials from days 3 and 4._
 
-Please do reach out to me if you're struggling with Git and let's work through it together!_
+Please do reach out to me if you're struggling with Git and let's work through it together!
 
 1. Star this repo
 2. Click fork
