@@ -1,4 +1,4 @@
-Welcome to the Remote Hack Collective!
+# Welcome to the Remote Hack Collective!
 
 I'm super excited for the month ahead and I'm stoked to be working on a solid curriculum for us all to dig into. The intent is to keep us all deeply, almost nauseatingly challenged while moving ever forward.
 
