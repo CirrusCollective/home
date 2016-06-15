@@ -1,0 +1,41 @@
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <base target="_top">
+    <title>Tangle: Getting Started</title>
+
+    <link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="Fonts/Insolent/stylesheet.css" type="text/css">
+    <link rel="stylesheet" href="Fonts/BorisBlackBloxx/stylesheet.css" type="text/css">
+    <link rel="stylesheet" href="style.css" type="text/css">
+
+    <!-- Tangle -->
+    <script type="text/javascript" src="Tangle/Tangle.js"></script>
+
+    <!-- TangleKit -->
+    <link rel="stylesheet" href="Tangle/TangleKit/TangleKit.css" type="text/css">
+    <script type="text/javascript" src="Tangle/TangleKit/mootools.js"></script>
+    <script type="text/javascript" src="Tangle/TangleKit/sprintf.js"></script>
+    <script type="text/javascript" src="Tangle/TangleKit/BVTouchable.js"></script>
+    <script type="text/javascript" src="Tangle/TangleKit/TangleKit.js"></script>
+</head>
+
+<body>
+  <p id="calorieCalculator">When you eat <span class="TKAdjustableNumber" data-var="cookies"> cookies</span>, you consume <b data-var="calories"> calories</b>.
+     That's <span data-var="dailyPercent">%</span> of your recommended daily calories.</p>
+</body>
+
+<script>
+var rootElement = document.getElementById("calorieCalculator");
+var model = {
+  initialize: function () {
+      this.cookies = 3;
+      this.caloriesPerCookie = 50;
+      this.dailyCalories = 2100;
+  },
+  update: function () {
+      this.calories = this.cookies * this.caloriesPerCookie;
+      this.dailyPercent = 100 * this.calories / this.dailyCalories;
+  }
+};
+var tangle = new Tangle(rootElement, model);
+</script>
