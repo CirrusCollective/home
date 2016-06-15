@@ -44,7 +44,7 @@ Please do reach out to me if you're struggling with Git and let's work through i
 - [ ] Implement [Getting Started](http://worrydream.com/Tangle/guide.html) by building the example in your index.html.
 
 #### Extra Credit
-- [ ] [Aparatus](aprt.us): Implement a tutorial in your index.html.
+- [ ] [Aparatus](aprt.us): Implement a tutorial into your index.html.
 
 Stuff is going to be buggy and broken. You're likely to get stuck quickly. Reach out to me when that happens.
 
