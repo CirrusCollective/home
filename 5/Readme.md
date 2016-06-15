@@ -39,7 +39,7 @@ Please do reach out to me if you're struggling with Git and let's work through i
 
 - [ ] At the command line, start a python server from todays repo directory by entering:
       python3 -m http.server
-- [ ] Open the index.html from today's repo.
+- [ ] Open the index.html from today's repo in your text editor.
 - [ ] Read about [Tangle](http://worrydream.com/Tangle/)
 - [ ] Implement [Getting Started](http://worrydream.com/Tangle/guide.html) by building the example in your index.html.
 
