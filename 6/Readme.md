@@ -1,12 +1,12 @@
 # Day 6!
 
-**Please push progress reports! I need the input for the next day's syllabus design!** 
+**Please push progress reports! I need the input for the next day's syllabus design!**
 
 _If you haven't done so, hit the Git tutorials from  [Day 3](https://github.com/cirruscollective/home/3) and [Day 4](https://github.com/cirruscollective/home/4)._
 
 How to clone this repo:
 
-+ Go to https://github.com/CirrusCollective/home
++ Go to https://github.com/CirrusCollective/home/6
   1. Click "star"
   2. Click "fork"
   3. Click your account in the box that appears.
