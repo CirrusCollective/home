@@ -7,15 +7,15 @@ _If you haven't done so, hit the Git tutorials from  [Day 3](https://github.com/
 How to clone this repo:
 
 + Go to https://github.com/CirrusCollective/home/6
-  1. Click "star"
-  2. Click "fork"
-  3. Click your account in the box that appears.
-  4. Click "Clone"
-  5. Copy the [url] that appears.
+  + [ ]  Click "star"
+  + [ ] Click "fork"
+  + [ ] Click your account in the box that appears.
+  + [ ] Click "Clone"
+  + [ ] Copy the [url] that appears.
 
 
 + In your terminal:
-  1. type: git clone [paste url]
+  + [ ] type: git clone [paste url]
 
 
 + Open /home/[day #] in your text editor
@@ -24,10 +24,10 @@ How to clone this repo:
 
 + When you've completed your work for the day:
   In terminal:
-  1. cd into /home
-  2. type: git add .
-  3. type: git commit -m "[message describing changes made]"
-  7. type: git push origin master
+  + [ ] cd into /home
+  + [ ] type: git add .
+  + [ ] type: git commit -m "[message describing changes made]"
+  + [ ] type: git push origin master
 
 ----
 When you get stuck, remember: **Read-Search-Ask**.
