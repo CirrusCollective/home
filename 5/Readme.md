@@ -41,7 +41,7 @@ Please do reach out to me if you're struggling with Git and let's work through i
       python3 -m http.server
 - [ ] Open the index.html from today's repo in your text editor.
 - [ ] Read about [Tangle](http://worrydream.com/Tangle/)
-- [ ] Implement [Getting Started](http://worrydream.com/Tangle/guide.html) by building the example in your index.html.
+- [ ] Implement [Getting Started](http://worrydream.com/Tangle/guide.html) by building the example into your index.html.
 
 #### Extra Credit
 - [ ] [Aparatus](aprt.us): Implement a tutorial into your index.html.
