@@ -1,8 +1,10 @@
 # Welcome to the Cirrus Collective!
 
-I'm super excited for the month ahead and I'm stoked to be working on a solid curriculum for us all to dig into. The intent is to keep us all deeply, almost nauseatingly challenged while moving ever forward.
+Why cirrus? Because since we're in the cloud, we might as well be clouds, and if we're clouds, we are cirrus clouds because cirrus clouds are the first to illuminate in the morning and they continue to glow brightly well after the other clouds have faded at sundown.
 
-It's worthwhile to consider some principles as they relate to our objectives. Our aim is *efficiency*:
+My goal is to keep us all deeply, almost nauseatingly challenged while moving ever forward.
+
+It's worthwhile to consider some principles as they relate to our objectives together. Our aim is *efficiency*:
 
 <table>
     <thead>
@@ -45,7 +47,7 @@ Be optimal. Move fast. Don't linger.
 
 #### How to learn fast:
 
-1.  make each hour you spend coding is maximally _efficient_
+1. make each hour you spend coding is maximally _efficient_
 2. maximize the number of hours
 
         learning efficiency = hour quantity x hour quality
@@ -74,24 +76,15 @@ Currently, the pattern for each day contains the following blocks:
 
 You can expect a new post each day containing the specific resources and problems we will be using.
 
+#### Feedback
+Your feedback is key. You get to drive this experiment. Keep pushing feedback for each section. Watch the course improve.
+
 #### Pairing
-Among the team, we have several different schedules of availability. Nick and I are now working on a way to make the curriculum modular and flexible. Your feedback is key. You get to drive this experiment!
-
-Availability:
-+ Elias: M - F 9am - 6pm
-+ Christian: Tuesday - Friday after 1pm
-+ Yaritza: Tuesday - Friday after 1pm
-+ Jorge: 8am - 12pm
-
-Pairs for this week are as follows:
-
-+ Jorge and Elias AM
-+ Yaritza and Christian AM/PM
-+ Elias and Brian PM
+Among the team, we have several different schedules of availability and I'm striving to keep the curriculum relevent, efficient, and flexible.
 
 Whenever someone is not available to pair, send a blast to the team. Everyone is copied on this email. If pairing is unfamiliar to you, reach out to me. If you are curious about what tools to use for remote pairing, let me know.
 
-#### On pairing and feeling inadequate
+#### On pairing and feelings of inadequacey
 No one of us is more skilled in absolute terms than any other of us. Each of us has the opportunity to teach and learn from everyone else. Every opportunity to pair is an opportunity to grow along one or more axis. Sometimes you grow in breadth of skill, like when you learned something new about javascript, other times you have the chance to deepen your growth, as when you get to find a way to explain a basic concept that's intuitive to you, but that you've never had to articulate to someone else. The key is to remember that both people in the pair always have pathways for growth available, regardless of perceived skill level.
 
 When you feel inadequate or frustrated, I promise you that every one of us has felt exactly the same way. Chances are good most of us are feeling that way at that very moment.
