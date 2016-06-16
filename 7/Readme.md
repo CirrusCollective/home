@@ -42,7 +42,9 @@ PS - Have you figured out how to speed up these videos yet? Hack the learning!
 [React for Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/) (This blog really helped me!)
 
 ## Algorithm Practice
+
 + [ ] Search and Replace
+
            Perform a search and replace on the sentence using the arguments provided and return the new sentence.
 
            First argument is the sentence to perform the search and replace on.
