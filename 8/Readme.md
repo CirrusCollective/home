@@ -57,6 +57,7 @@
 Thursday and Friday we will be deploying the app.
 
 **Remember!**
++ **Offer some [feedback](http://goo.gl/forms/W5vaqyIrZSyMsoYY2)**
 + **Timebox**
 + **Read-Search-Ask**
 + **rm -r your repo**
