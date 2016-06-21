@@ -17,7 +17,6 @@ How to clone this repo:
 + In your terminal:
   + [ ] type: git clone [paste url]
 
-
 + Open /home/[day #] in your text editor
 
 + Hack!
