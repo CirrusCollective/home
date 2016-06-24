@@ -84,7 +84,7 @@ Among the team, we have several different schedules of availability and I'm stri
 
 Whenever someone is not available to pair, send a blast to the team. Everyone is copied on this email. If pairing is unfamiliar to you, reach out to me. If you are curious about what tools to use for remote pairing, let me know.
 
-#### On pairing and feelings of inadequacey
+#### On pairing and feelings of inadequacy
 No one of us is more skilled in absolute terms than any other of us. Each of us has the opportunity to teach and learn from everyone else. Every opportunity to pair is an opportunity to grow along one or more axis. Sometimes you grow in breadth of skill, like when you learned something new about javascript, other times you have the chance to deepen your growth, as when you get to find a way to explain a basic concept that's intuitive to you, but that you've never had to articulate to someone else. The key is to remember that both people in the pair always have pathways for growth available, regardless of perceived skill level.
 
 When you feel inadequate or frustrated, I promise you that every one of us has felt exactly the same way. Chances are good most of us are feeling that way at that very moment.
