@@ -1,0 +1,43 @@
+Sprint 1:
+  Write two computer programs.
+
+    Program 1:
+    + [ ] Is always on and listening
+    + [ ] Receives requests
+    + [ ] Sends responses
+
+
+    Program 2:
+    + [ ] Sends requests
+    + [ ] Receives responses
+    + [ ] Renders the response to the user
+
+    Combine the following:
+     + [ ] React Native
+     + [ ] A database
+     + [ ] Xcode
+     + [ ] Nodal
+
+ Scope:
+ + [ ] Implement a single API endpoint in Nodal. It can have any schema (without using --users --access_tokens).
+ + [ ] Get up and running with a React Native app.
+
+ Use componentDidMount and setState
+
+ Everything in react is a component
+  1. Component mounting
+  2. Request
+  3. Receive response data
+  4. Set state
+  5. Render
+
+
+ index.html
+ head body script
+ make a request in the script tag
+ render response within a p tag in the body with an id
+ use getElementById to select the p tag
+ assign it to a variable
+ set a property of the variable (now an object)
+
+ Sprint 2: Deploy
