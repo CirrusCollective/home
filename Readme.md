@@ -1,6 +1,6 @@
 # Welcome to the Cirrus Collective!
 
-Why cirrus? Because since we're in the cloud, we might as well be clouds, and if we're clouds, we are cirrus clouds. Cirrus clouds are the first to illuminate in the morning and they continue to glow brightly well after the other clouds have faded at sundown.
+Why Cirrus? Since we're in the cloud, we might as well be clouds, and if we're clouds, we are cirrus clouds. Cirrus clouds are the first to illuminate in the morning and they continue to glow brightly well after the other clouds have faded at sundown.
 
 My goal is to keep us all deeply, almost nauseatingly challenged while moving ever forward.
 
